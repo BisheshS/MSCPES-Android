@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Me</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="introduction_content">My name is Bishesh Sinha, 3rd Sem CSE. I am passionate about developing new tools and entrepreneurship.</string>
+    <string name="skill_set_content">My skill set includes\n1. Beginner to Developing and Debugging Android Apps\n2. Fairly competent coding skills in JAVA, C and Python.</string>
+    <string name="achievements"> None as such, but looking forward to do wonders in the MSCPES :P</string>
+    <string name="why_android">1. Interesting and Relevant in all walks of life (There can and are apps for anythign and everything\n2.An interest towards IOT and solving real world problems</string>
+    <string name="experience"> Completed a Course in Udacity, successfully implemented 6 applications as per assignment requirements </string>
+    <string name="dream_project">There are several\n1. An app which uses machine learning and language processing to sit through a conference and after it list down all the important things of the conference. The app provides a bulletin of all the important highlights of the meeting and can be used for later references\n2.An app which would let you talk to random people about your problems, and get advice from them. This app does not reveal your identity and will be encrypted end to end. After all nobody wants a solution to their problems, they want someone to listen to them and not judge them :)  </string>
+</resources>
